@@ -23,7 +23,7 @@
 ## 🌐 Portfolio & Socials
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_LINK](https://github.com/Abhinav-DSA">
+  <a href="YOUR_PORTFOLIO_LINK](https://github.com/Abhinav-Ai-hub">
     <img src="https://img.shields.io/badge/MY PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/abhinav-srivastava-763816348/">
@@ -64,11 +64,11 @@
 
 <p align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-DSA&theme=tokyonight&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-DSA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-Ai-hub&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-Ai-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="50%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-DSA&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Ai-hub&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
@@ -85,13 +85,13 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav-DSA&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav-Ai-hub&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhinav-DSA&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Abhinav-Ai-hub&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <p align="center">⭐ <i>If you find my work helpful, consider starring my repositories!</i> ⭐</p>
